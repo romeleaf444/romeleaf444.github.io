@@ -233,5 +233,4 @@ function showFinalText() {
 </script>
 
 </body>
-</html>
 
